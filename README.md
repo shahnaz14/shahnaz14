@@ -56,20 +56,15 @@ I enjoy working with data, discovering patterns, creating visualizations and exp
 
 <td width="45%" valign="top">
 
-╭─────────────────────────────╮
-│       SHAHNAZ ANSARI        │
-├─────────────────────────────┤
-│ 📍 New Delhi, India         │
-│ 🎓 BCA                       │
-│ 📚 Data Science & Big Data   │
-│                             │
-│ DATA → ANALYSIS → INSIGHT   │
-│                             │
-│ 💗 Learn                    │
-│ 💗 Build                    │
-│ 💗 Analyze                  │
-│ 💗 Grow                     │
-╰─────────────────────────────╯
+<h3 align="center">💗 SHAHNAZ ANSARI</h3>
+
+<table>
+<tr><td>📍</td><td><b>New Delhi, India</b></td></tr>
+<tr><td>🎓</td><td><b>Bachelor of Computer Applications</b></td></tr>
+<tr><td>📚</td><td><b>Data Science &amp; Big Data Analytics</b></td></tr>
+<tr><td>💎</td><td><b>DATA → ANALYSIS → INSIGHT</b></td></tr>
+<tr><td>🌸</td><td>Learn • Build • Analyze • Grow</td></tr>
+</table>
 
 </td>
 </tr>
@@ -111,41 +106,20 @@ I enjoy working with data, discovering patterns, creating visualizations and exp
 
 <div align="center">
 
-🌸 AREA
-
-💗 SKILLS
-
-📈 Data Analytics
-
-EDA • Statistical Analysis • Data Cleaning & Transformation
-
-🐍 Python
-
-Pandas • NumPy • Data Analysis
-
-🗄️ Database
-
-SQL • Database Management • Queries
-
-📊 Visualization
-
-Tableau • Power BI • Excel • Charts • Dashboards
-
-🤖 Machine Learning
-
-Logistic Regression • Random Forest • Model Evaluation
-
-💎 SAS
-
-SAS 9.4 • Data Manipulation • Reporting • Programming Fundamentals
-
-🌐 Web
-
-HTML • CSS • JavaScript
-
-🎨 AR Development
-
-Snapchat AR Lenses • Lens Studio
+<table>
+<tr>
+<th>🌸 AREA</th>
+<th>💗 SKILLS</th>
+</tr>
+<tr><td>📈 Data Analytics</td><td>EDA • Statistical Analysis • Data Cleaning &amp; Transformation</td></tr>
+<tr><td>🐍 Python</td><td>Pandas • NumPy • Data Analysis</td></tr>
+<tr><td>🗄️ Database</td><td>SQL • Database Management • Queries</td></tr>
+<tr><td>📊 Visualization</td><td>Tableau • Power BI • Excel • Charts • Dashboards</td></tr>
+<tr><td>🤖 Machine Learning</td><td>Logistic Regression • Random Forest • Model Evaluation</td></tr>
+<tr><td>💎 SAS</td><td>SAS 9.4 • Data Manipulation • Reporting • Programming Fundamentals</td></tr>
+<tr><td>🌐 Web</td><td>HTML • CSS • JavaScript</td></tr>
+<tr><td>🎨 AR Development</td><td>Snapchat AR Lenses • Lens Studio</td></tr>
+</table>
 
 </div>
 
@@ -167,17 +141,19 @@ Geo-Spatial Workforce Allocation & Dynamic Wage Prediction System
 
 A web-based platform connecting contractors, builders and facility managers with verified, skill-matched daily-wage workers across Delhi NCR.
 
-                    MAZDOORLINK
-                         │
-          ┌──────────────┼──────────────┐
-          ↓              ↓              ↓
-     GEO-SPATIAL      WORKER         WAGE
-      MATCHING       MATCHING      PREDICTION
-          │              │              │
-          └──────────────┼──────────────┘
-                         ↓
-                BETTER WORKFORCE
-                   ALLOCATION
+<table align="center">
+<tr>
+<td align="center"><b>📍 GEO-SPATIAL<br>MATCHING</b></td>
+<td align="center"><b>👷 WORKER<br>MATCHING</b></td>
+<td align="center"><b>💰 WAGE<br>PREDICTION</b></td>
+</tr>
+<tr>
+<td colspan="3" align="center">⬇️</td>
+</tr>
+<tr>
+<td colspan="3" align="center"><b>🚀 BETTER WORKFORCE ALLOCATION</b></td>
+</tr>
+</table>
 
 ✦ Focus Areas
 
@@ -257,63 +233,43 @@ Excel SQL Pivot Tables Charts
 
 🩷 Excel & SQL Sales Analysis
 
-RAW DATA
-   ↓
-DATA CLEANING
-   ↓
-SQL QUERIES
-   ↓
-PIVOT TABLES
-   ↓
-CHARTS & DASHBOARDS
-   ↓
-BUSINESS INSIGHTS
+<table align="center">
+<tr>
+<td align="center"><b>📥 RAW DATA</b></td>
+<td>→</td>
+<td align="center"><b>🧹 DATA CLEANING</b></td>
+<td>→</td>
+<td align="center"><b>🗄️ SQL QUERIES</b></td>
+</tr>
+<tr>
+<td colspan="5" align="center">⬇️</td>
+</tr>
+<tr>
+<td align="center"><b>📊 PIVOT TABLES</b></td>
+<td>→</td>
+<td align="center"><b>📈 CHARTS &amp; DASHBOARDS</b></td>
+<td>→</td>
+<td align="center"><b>💡 BUSINESS INSIGHTS</b></td>
+</tr>
+</table>
 
 💎 06 — CERTIFICATIONS
 
 <div align="center">
 
-🎓 CERTIFICATION
-
-🏛️ ORGANIZATION
-
-📅
-
-SAS Certified Associate: Programming Fundamentals Using SAS 9.4
-
-SAS Global Certification Program
-
-May 2026
-
-Data Analytics Certificate
-
-New Delhi YMCA / IMS
-
-Jan 2026
-
-Bharatiya Antariksh Hackathon 2025
-
-Hack2skill
-
-2025
-
-Exploratory Data Analysis
-
-Infosys Springboard
-
-Aug 2025
-
-Hack with India
-
-Manav Rachna International Institute of Research & Studies
-
-Jan 2025
-
-Data Visualization — Tableau
-
-Manav Rachna International Institute
-
-Sep 2024
+<table>
+<tr>
+<th>🎓 CERTIFICATION</th>
+<th>🏛️ ORGANIZATION</th>
+<th>📅 DATE</th>
+</tr>
+<tr><td>SAS Certified Associate: Programming Fundamentals Using SAS 9.4</td><td>SAS Global Certification Program</td><td>May 2026</td></tr>
+<tr><td>Data Analytics Certificate</td><td>New Delhi YMCA / IMS</td><td>Jan 2026</td></tr>
+<tr><td>Bharatiya Antariksh Hackathon 2025</td><td>Hack2skill</td><td>2025</td></tr>
+<tr><td>Exploratory Data Analysis</td><td>Infosys Springboard</td><td>Aug 2025</td></tr>
+<tr><td>Hack with India</td><td>Manav Rachna International Institute of Research &amp; Studies</td><td>Jan 2025</td></tr>
+<tr><td>Data Visualization — Tableau</td><td>Manav Rachna International Institute</td><td>Sep 2024</td></tr>
+</table>
 
 </div>
 
@@ -365,25 +321,35 @@ Manav Rachna International Institute of Research and Studies
 
 🎯 11 — CURRENT FOCUS
 
-╭─────────────────────────────────────────────────────╮
-│                                                     │
-│   📊 DATA SCIENCE & ANALYTICS                       │
-│   ├── Exploratory Data Analysis                     │
-│   ├── Statistical Analysis                          │
-│   └── Data Visualization                            │
-│                                                     │
-│   🤖 MACHINE LEARNING                               │
-│   ├── Classification                                │
-│   ├── Regression                                    │
-│   └── Model Evaluation                              │
-│                                                     │
-│   🐍 TECHNICAL GROWTH                               │
-│   ├── Python                                        │
-│   ├── SQL                                           │
-│   ├── SAS 9.4                                       │
-│   └── Big Data Analytics                             │
-│                                                     │
-╰─────────────────────────────────────────────────────╯
+<table>
+<tr>
+<td width="33%" valign="top">
+<h3>📊 DATA SCIENCE &amp; ANALYTICS</h3>
+<ul>
+<li>Exploratory Data Analysis</li>
+<li>Statistical Analysis</li>
+<li>Data Visualization</li>
+</ul>
+</td>
+<td width="33%" valign="top">
+<h3>🤖 MACHINE LEARNING</h3>
+<ul>
+<li>Classification</li>
+<li>Regression</li>
+<li>Model Evaluation</li>
+</ul>
+</td>
+<td width="33%" valign="top">
+<h3>🐍 TECHNICAL GROWTH</h3>
+<ul>
+<li>Python</li>
+<li>SQL</li>
+<li>SAS 9.4</li>
+<li>Big Data Analytics</li>
+</ul>
+</td>
+</tr>
+</table>
 
 💌 12 — LET'S CONNECT
 
