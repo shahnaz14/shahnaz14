@@ -1,303 +1,361 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=220&section=header&text=SHAHNAZ%20ANSARI&fontSize=48&fontColor=FF69B4&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20Analytics%20%7C%20Machine%20Learning&descAlignY=58&descSize=18&descColor=FFC0CB"/>
+<!-- HERO -->
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=FF1493&center=true&vCenter=true&width=850&lines=Data+Science+%26+Big+Data+Analytics+Student;Python+%7C+SQL+%7C+SAS+9.4+%7C+Tableau+%7C+Power+BI;Exploratory+Data+Analysis+%7C+Machine+Learning;Turning+Data+into+Meaningful+Insights+%F0%9F%92%97"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=250&section=header&text=SHAHNAZ%20ANSARI&fontSize=52&fontColor=FF69B4&animation=fadeIn&fontAlignY=38&desc=DATA%20SCIENCE%20%7C%20ANALYTICS%20%7C%20MACHINE%20LEARNING&descAlignY=60&descSize=16&descColor=FFC0CB"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2600&pause=900&color=FF1493&center=true&vCenter=true&width=850&lines=Data+Science+%26+Big+Data+Analytics+Student;Python+%7C+SQL+%7C+SAS+9.4+%7C+Tableau+%7C+Power+BI;Exploring+Data.+Building+Insights.+Learning+Every+Day.;Turning+Data+into+Meaningful+Stories+%F0%9F%8C%B8"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=shahnaz14&label=PROFILE%20VIEWS&color=FF1493&style=for-the-badge"/>
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=shahnaz14&label=PROFILE+VIEWS&color=FF1493&style=for-the-badge"/>
+<a href="https://github.com/shahnaz14">
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=FF69B4"/>
+</a>
+<a href="https://www.linkedin.com/in/shahnaz-ansari1714/">
+<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=FF1493"/>
+</a>
+<a href="mailto:shahnazansari1714@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=FFC0CB"/>
+</a>
 
 </div>
 
-🌸 About Me
+🌸 01 — ABOUT ME
 
-name: Shahnaz Ansari
-location: New Delhi, India
+<table>
+<tr>
+<td width="55%" valign="top">
 
-degree: Bachelor of Computer Applications
-specialization: Data Science & Big Data Analytics
+Hi, I'm Shahnaz 💗
 
-interests:
-  - Data Science
-  - Data Analytics
-  - Machine Learning
-  - Statistical Analysis
-  - Data Visualization
-  - Database Management
-  - Web Development
+I'm a Bachelor of Computer Applications student specializing in Data Science & Big Data Analytics.
 
-currently_learning:
-  - Python
-  - SQL
-  - Machine Learning
-  - SAS Programming
-  - Big Data Analytics
-  - Data Visualization
+I enjoy working with data, discovering patterns, creating visualizations and exploring machine learning to turn raw information into meaningful insights.
 
-goal: "Turning data into meaningful real-world insights."
+✦ What I Like
 
-💗 I am a Data Science & Big Data Analytics student interested in data analysis,
-machine learning, visualization and problem solving.
+📊 Data Analytics & EDA
 
-💗 Tech Stack
+🐍 Python & SQL
+
+🤖 Machine Learning
+
+📈 Tableau & Power BI
+
+💎 SAS Programming
+
+🗄️ Databases
+
+🌐 Web Development
+
+</td>
+
+<td width="45%" valign="top">
+
+╭─────────────────────────────╮
+│       SHAHNAZ ANSARI        │
+├─────────────────────────────┤
+│ 📍 New Delhi, India         │
+│ 🎓 BCA                       │
+│ 📚 Data Science & Big Data   │
+│                             │
+│ DATA → ANALYSIS → INSIGHT   │
+│                             │
+│ 💗 Learn                    │
+│ 💗 Build                    │
+│ 💗 Analyze                  │
+│ 💗 Grow                     │
+╰─────────────────────────────╯
+
+</td>
+</tr>
+</table>
+
+💗 02 — MY TECH STACK
 
 🐍 Programming & Data
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,html,css,js,mysql"/>
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/SAS%209.4-C71585?style=for-the-badge&logo=sas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Pandas-FF1493?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-DB7093?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-FF69B4?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FF69B4"/>
+<img src="https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=FF1493"/>
+<img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=mysql&logoColor=FFC0CB"/>
+<img src="https://img.shields.io/badge/SAS%209.4-0D1117?style=for-the-badge&logo=sas&logoColor=DB7093"/>
+<img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=FF1493"/>
+<img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=FF69B4"/>
 </p>
 
 📊 Analytics & Visualization
 
 <p align="center">
-<img src="https://img.shields.io/badge/Tableau-FF69B4?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tableau-FF1493?style=for-the-badge&logo=tableau&logoColor=white"/>
 <img src="https://img.shields.io/badge/Power%20BI-C71585?style=for-the-badge&logo=powerbi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Excel-DB7093?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-FFB6C1?style=for-the-badge&logo=python&logoColor=black"/>
+<img src="https://img.shields.io/badge/Matplotlib-FF69B4?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
-
-🤖 Data Science & Machine Learning
-
-🔎 Exploratory Data Analysis
-
-📊 Statistical Analysis
-
-🧹 Data Cleaning & Transformation
-
-🧠 Feature Engineering
-
-📈 Data Visualization
-
-🤖 Predictive Modeling
-
-📐 Classification & Regression
-
-🎯 Model Evaluation
-
-👥 Customer Churn Prediction
 
 🌐 Web & Development
 
 <p align="center">
-<img src="https://img.shields.io/badge/HTML5-FF69B4?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-DB7093?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-C71585?style=for-the-badge&logo=javascript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Streamlit-FF1493?style=for-the-badge&logo=streamlit&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=FF69B4"/>
+<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=FF1493"/>
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=FFC0CB"/>
+<img src="https://img.shields.io/badge/Streamlit-0D1117?style=for-the-badge&logo=streamlit&logoColor=DB7093"/>
+<img src="https://img.shields.io/badge/Lens%20Studio-0D1117?style=for-the-badge&logo=snapchat&logoColor=FF69B4"/>
 </p>
 
-🎀 Skills Snapshot
+🎀 03 — SKILLS SNAPSHOT
 
-💕 Area
+<div align="center">
 
-🌸 Skills
+🌸 AREA
+
+💗 SKILLS
 
 📈 Data Analytics
 
-EDA, Statistical Analysis, Data Cleaning
+EDA • Statistical Analysis • Data Cleaning & Transformation
 
 🐍 Python
 
-Pandas, NumPy, Data Analysis
+Pandas • NumPy • Data Analysis
 
 🗄️ Database
 
-SQL, Database Management
+SQL • Database Management • Queries
 
 📊 Visualization
 
-Tableau, Power BI, Excel, Python
+Tableau • Power BI • Excel • Charts • Dashboards
 
 🤖 Machine Learning
 
-Logistic Regression, Random Forest
-
-💻 Web Development
-
-HTML, CSS, JavaScript
+Logistic Regression • Random Forest • Model Evaluation
 
 💎 SAS
 
-SAS 9.4, Data Manipulation, Reporting
+SAS 9.4 • Data Manipulation • Reporting • Programming Fundamentals
+
+🌐 Web
+
+HTML • CSS • JavaScript
 
 🎨 AR Development
 
-Snapchat AR Lenses, Lens Studio
+Snapchat AR Lenses • Lens Studio
 
-🌷 Internship Experience
+</div>
 
-💗 Appginie — Summer Internship
+💼 04 — INTERNSHIP EXPERIENCE
 
-July 2026
+<div align="center">
 
-Focus: Application Development • Data Analysis • Machine Learning
+💗 APPGINIE
 
-💎 MazdoorLink
+Summer Internship — July 2026
+
+APPLICATION DEVELOPMENT  DATA ANALYSIS  MACHINE LEARNING
+
+</div>
+
+💎 Project — MazdoorLink
 
 Geo-Spatial Workforce Allocation & Dynamic Wage Prediction System
 
-A web-based platform connecting contractors, builders and facility managers
-with verified, skill-matched daily-wage workers across Delhi NCR.
+A web-based platform connecting contractors, builders and facility managers with verified, skill-matched daily-wage workers across Delhi NCR.
 
-✨ Key Work Areas
+                    MAZDOORLINK
+                         │
+          ┌──────────────┼──────────────┐
+          ↓              ↓              ↓
+     GEO-SPATIAL      WORKER         WAGE
+      MATCHING       MATCHING      PREDICTION
+          │              │              │
+          └──────────────┼──────────────┘
+                         ↓
+                BETTER WORKFORCE
+                   ALLOCATION
 
-📍 Geo-Spatial Workforce Allocation
-👷 Worker Skill Matching
-📊 Data Analysis
-🤖 Machine Learning Concepts
-💰 Dynamic Wage Prediction
-🗄️ Workforce Database
-🌐 Web Application Development
+✦ Focus Areas
 
-🚀 Featured Projects
+📍 Geo-spatial workforce allocation
 
-💗 01 — MazdoorLink
+👷 Skill-based worker matching
+
+📊 Data analysis
+
+🤖 Machine learning concepts
+
+💰 Dynamic wage prediction
+
+🌐 Web application development
+
+🚀 05 — FEATURED PROJECTS
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+💗 MazdoorLink
 
 Geo-Spatial Workforce Allocation & Dynamic Wage Prediction
 
-A workforce dispatch platform designed to connect contractors with
-verified, skill-matched workers using geo-spatial matching and
-ML-based wage prediction.
+A workforce dispatch platform designed around geo-spatial matching and ML-based wage prediction.
 
-Tech Stack
+Stack
 
-HTML CSS JavaScript Python Streamlit
-Scikit-learn Pandas NumPy Leaflet OpenStreetMap
+Python Streamlit Scikit-learn Pandas NumPy HTML CSS JavaScript
 
-🎀 02 — Customer Churn Prediction
+</td>
+
+<td width="50%" valign="top">
+
+🎀 Customer Churn Prediction
 
 Machine learning project focused on predicting customer churn.
 
 Techniques
 
 Logistic Regression
-
 Random Forest
-
-Data Preprocessing
-
+Preprocessing
 Feature Analysis
-
 Model Evaluation
 
-Tech: Python Pandas NumPy Scikit-learn
+</td>
+</tr>
 
-🌸 03 — Zomato Data Analysis
+<tr>
+<td width="50%" valign="top">
 
-Analyzed restaurant and customer data to identify:
+🌸 Zomato Data Analysis
 
-Restaurant trends
+Data analysis project exploring restaurant and customer-related patterns.
 
-Customer preferences
+Focus
 
-Data patterns
+EDA Data Cleaning Visualization Insights
 
-Business insights
+</td>
 
-Tech: Python SQL Tableau
+<td width="50%" valign="top">
 
-💕 04 — Apple Sales Data Analysis
+💕 Apple Sales Data Analysis
 
-Analyzed Apple sales and market data to understand:
+Sales analysis project focused on product performance and business trends.
 
-Product performance
+Tools
 
-Sales patterns
+Excel SQL Pivot Tables Charts
 
-Customer behavior
+</td>
+</tr>
+</table>
 
-Business trends
+🩷 Excel & SQL Sales Analysis
 
-Tech: Excel SQL Pivot Tables Charts
+RAW DATA
+   ↓
+DATA CLEANING
+   ↓
+SQL QUERIES
+   ↓
+PIVOT TABLES
+   ↓
+CHARTS & DASHBOARDS
+   ↓
+BUSINESS INSIGHTS
 
-🩷 05 — Excel & SQL Sales Analysis
+💎 06 — CERTIFICATIONS
 
-Excel Pivot Tables
-      ↓
-Charts & Dashboards
-      ↓
-SQL Queries
-      ↓
-Data Cleaning
-      ↓
-KPI Tracking
-      ↓
-Business Insights
+<div align="center">
 
-💎 Certifications
+🎓 CERTIFICATION
 
-🎀 SAS Global Certification Program
+🏛️ ORGANIZATION
+
+📅
 
 SAS Certified Associate: Programming Fundamentals Using SAS 9.4
 
-Certified: May 12, 2026
+SAS Global Certification Program
 
-SAS 9.4 • Data Manipulation • Reporting • Programming Fundamentals
+May 2026
 
-🌷 Data Analytics Certificate
+Data Analytics Certificate
 
-New Delhi YMCA / IMS — January 2026
+New Delhi YMCA / IMS
 
-🚀 Bharatiya Antariksh Hackathon 2025
+Jan 2026
+
+Bharatiya Antariksh Hackathon 2025
 
 Hack2skill
 
-🔎 Exploratory Data Analysis
+2025
 
-Infosys Springboard — August 2025
+Exploratory Data Analysis
 
-💻 Hack with India
+Infosys Springboard
 
-Manav Rachna International Institute of Research & Studies — January 2025
+Aug 2025
 
-📊 Data Visualization — Tableau
+Hack with India
 
-Manav Rachna International Institute of Research & Studies — September 2024
+Manav Rachna International Institute of Research & Studies
 
-🎓 Education
+Jan 2025
+
+Data Visualization — Tableau
+
+Manav Rachna International Institute
+
+Sep 2024
+
+</div>
+
+🎓 07 — EDUCATION
+
+<div align="center">
 
 🎓 Bachelor of Computer Applications
 
-Specialization: Data Science & Big Data Analytics
+Specialization — Data Science & Big Data Analytics
 
 Manav Rachna International Institute of Research and Studies
 
-📊 GitHub Analytics
+</div>
+
+📊 08 — GITHUB ANALYTICS
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shahnaz14&show_icons=true&theme=radical&hide_border=true&title_color=FF69B4&icon_color=FF1493&text_color=FFC0CB&bg_color=0D1117"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=shahnaz14&show_icons=true&hide_border=true&bg_color=0D1117&title_color=FF69B4&icon_color=FF1493&text_color=FFC0CB"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahnaz14&layout=compact&theme=radical&hide_border=true&title_color=FF1493&text_color=FFC0CB&bg_color=0D1117"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahnaz14&layout=compact&hide_border=true&bg_color=0D1117&title_color=FF1493&text_color=FFC0CB"/>
 
 </div>
 
-🔥 GitHub Streak
+<br>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=shahnaz14&theme=radical&hide_border=true&background=0D1117&ring=FF1493&fire=FF69B4&currStreakLabel=FFC0CB"/>
+<img src="https://streak-stats.demolab.com?user=shahnaz14&hide_border=true&background=0D1117&ring=FF1493&fire=FF69B4&currStreakLabel=FFC0CB&sideLabels=DB7093&dates=9D174D"/>
 
 </div>
 
-🏆 GitHub Trophies
+🏆 09 — GITHUB TROPHIES
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=shahnaz14&theme=radical&no-frame=true&no-bg=true&margin-w=5&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=shahnaz14&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7"/>
 
 </div>
 
-🌸 Contribution Graph
+🌸 10 — CONTRIBUTION GRAPH
 
 <div align="center">
 
@@ -305,42 +363,29 @@ Manav Rachna International Institute of Research and Studies
 
 </div>
 
-🐍 Contribution Snake
+🎯 11 — CURRENT FOCUS
 
-<div align="center">
+╭─────────────────────────────────────────────────────╮
+│                                                     │
+│   📊 DATA SCIENCE & ANALYTICS                       │
+│   ├── Exploratory Data Analysis                     │
+│   ├── Statistical Analysis                          │
+│   └── Data Visualization                            │
+│                                                     │
+│   🤖 MACHINE LEARNING                               │
+│   ├── Classification                                │
+│   ├── Regression                                    │
+│   └── Model Evaluation                              │
+│                                                     │
+│   🐍 TECHNICAL GROWTH                               │
+│   ├── Python                                        │
+│   ├── SQL                                           │
+│   ├── SAS 9.4                                       │
+│   └── Big Data Analytics                             │
+│                                                     │
+╰─────────────────────────────────────────────────────╯
 
-<img src="https://raw.githubusercontent.com/shahnaz14/shahnaz14/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
-🎯 Current Focus
-
-current_focus = {
-    "📊 Data Science": True,
-    "📈 Data Analytics": True,
-    "🤖 Machine Learning": True,
-    "💎 SAS Programming": True,
-    "🗄️ SQL": True,
-    "📉 Data Visualization": True,
-    "🐍 Python": True,
-    "☁️ Big Data Analytics": True
-}
-
-🌸 My Goals
-
-╭──────────────────────────────────────────────╮
-│                                              │
-│   📊 Become stronger in Data Analytics       │
-│   🤖 Build practical ML projects             │
-│   🐍 Improve Python & SQL                    │
-│   📈 Create impactful dashboards             │
-│   💎 Explore advanced SAS                    │
-│   🚀 Contribute to open source               │
-│   💼 Grow in Data Science & Analytics        │
-│                                              │
-╰──────────────────────────────────────────────╯
-
-💌 Let's Connect
+💌 12 — LET'S CONNECT
 
 <div align="center">
 
@@ -356,14 +401,14 @@ current_focus = {
 <img src="https://img.shields.io/badge/Email-shahnazansari1714@gmail.com-DB7093?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</div>
+<br><br>
 
-<br>
+💗 DATA • ANALYZE • CREATE • GROW
 
-<div align="center">
+<sub>Turning data into insights, one project at a time. 🌸</sub>
 
-💗 Turning Data into Insights • Ideas into Solutions 🎀
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=130&section=footer&fontColor=FF69B4"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=140&section=footer"/>
 
 </div>
